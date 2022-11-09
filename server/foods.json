@@ -1,0 +1,53 @@
+{
+    "results":[
+        {
+            "name":"pizza",
+            "image":"https://res.cloudinary.com/dcf4tkmma/image/upload/v1665176204/pizza_hdpn1f.png",
+            "subItems":[
+                {
+                    "name":"Tomato Basil Italian Pizza",
+                    "image":"https://res.cloudinary.com/dcf4tkmma/image/upload/v1665176110/pizza1_vnmjv3.jpg",
+                    "price": 450,
+                    "description":"Dressed with oil, the origanum and garlic cloves"
+                },
+                {
+                    "name": "Bombay Pizza",
+                    "image": "https://res.cloudinary.com/dcf4tkmma/image/upload/v1665176109/pizza2_coit42.jpg",
+                    "price": 550,
+                    "description":"Spicy tomato sauce with Italian herbs, mushroom, onion, cottage cheese, coriander and mozzerella"
+                },
+                {
+                    "name": "Sicilia Pizza",
+                    "image": "https://res.cloudinary.com/dcf4tkmma/image/upload/v1665176111/pizza3_v1m9cb.jpg",
+                    "price": 450,
+                    "description":"A thick base pizza with fresh tomato sauce, mushroom, garlic and pickled onions"
+                }
+            ]
+        },
+        {
+            "name": "Burger",
+            "image": "https://res.cloudinary.com/dcf4tkmma/image/upload/v1665176108/burger_kchioz.png",
+            "subItems":[
+                {
+                    "name": "Fried Chicken Burger",
+                    "image": "https://res.cloudinary.com/dcf4tkmma/image/upload/v1665176108/burger1_d8otoh.jpg",
+                    "price": 450,
+                    "description":"Old school Chicken Burger"
+                },
+                {
+                    "name": "Paneer Tikka Burger",
+                    "image": "https://res.cloudinary.com/dcf4tkmma/image/upload/v1665176110/burger2_lbjh9n.jpg",
+                    "price": 450,
+                    "description":"Spicy Paneer, Onion, Tomato, Mozerella Cheese"
+                },
+                {
+                    "name": "Chicken Classic Cheese Burger",
+                    "image": "https://res.cloudinary.com/dcf4tkmma/image/upload/v1665176111/burger3_rujhqk.jpg",
+                    "price": 550,
+                    "description":"Aged cheddar, sweet pickle, tomato, red onion"
+                }
+        
+            ]
+        }
+    ]
+}
